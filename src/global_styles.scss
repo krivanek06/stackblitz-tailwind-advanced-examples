@@ -1,0 +1,14 @@
+/* Add application styles & imports to this file! */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: #bcbcbc;
+}
+
+h3 {
+  font-size: 18px;
+  padding-left: 12px;
+  margin-bottom: 12px;
+}
